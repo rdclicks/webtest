@@ -29,7 +29,7 @@ define('DB_USER', 'rajdeepsinghdbu');
 define('DB_PASSWORD', 'gappu123');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'db.rajdeepsingh.ca');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
