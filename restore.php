@@ -3,7 +3,7 @@
 // Name of the file
 $filename = 'rajdeepsinghdb.sql';
 // MySQL host
-$mysql_host = 'localhost';
+$mysql_host = 'dev1mysql.dev1bclccontainers.svc';
 // MySQL username
 $mysql_username = 'rajdeep';
 // MySQL password
